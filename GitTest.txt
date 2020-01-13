@@ -3,4 +3,3 @@ Add your name to the bottom of this file and try to commit and push to the repos
 Please ask a programmer when you have a question.
 
 Yi Qian
-SomeRandomPersonThatHaveVisitedThisFile
