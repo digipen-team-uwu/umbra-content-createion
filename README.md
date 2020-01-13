@@ -4,4 +4,4 @@ Check our [wiki page](https://github.com/digipen-team-uwu/umbra-content-creation
 
 Go to the [project page](https://github.com/digipen-team-uwu/umbra) to find the latest builds of the project.
 
-![Project Umbra Repos](ProjectUmbraRepos.jpg)
+![Project Umbra Repos](wiki/ProjectUmbraRepos.jpg)
